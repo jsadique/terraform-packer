@@ -34,4 +34,8 @@ Jumpbox IP address
 connect with ubuntu machine: 
 ssh azureuser@
 
+Run terraform apply to apply the execution plan.
+terraform apply main.destroy.tfplan
 
+Run az group delete to delete the resource group used to contain the Packer image. The Packer image is also deleted.
+az group delete --name myPackerImages --yes
