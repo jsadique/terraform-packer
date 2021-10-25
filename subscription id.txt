@@ -1,0 +1,4 @@
+client_id: "27a99c27-316d-4214-b425-a1cc80b13d95",
+client_secret: "XYERsQXlgIzvvhzcsE2kfmfdJ~c12Nw~fD"
+tenant_id: "e010c77a-5d2a-4d48-ab7f-f8b6a584a0fb"
+subscription_id: "50ea5807-e2f1-4388-8506-4c0eadda938a"

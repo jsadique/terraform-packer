@@ -2,10 +2,10 @@
     "builders": [{
       "type": "azure-arm",
   
-      "client_id": "0bfc2293-4d69-49b5-83f7-bf0d60d20c45",
-      "client_secret": "G3.6ytCh44Kcla~_JRPBDLkzsXLOa3edDL",
-      "tenant_id": "c3fd441d-b8ad-487e-aa27-453079018fca",
-      "subscription_id": "b162117f-53fa-4f42-8c77-6a65ca966c40",
+      "client_id": "27a99c27-316d-4214-b425-a1cc80b13d95",
+      "client_secret": "XYERsQXlgIzvvhzcsE2kfmfdJ~c12Nw~fD",
+      "tenant_id": "e010c77a-5d2a-4d48-ab7f-f8b6a584a0fb",
+      "subscription_id": "50ea5807-e2f1-4388-8506-4c0eadda938a",
   
       "managed_image_resource_group_name": "myPackerImages",
       "managed_image_name": "myPackerImage",
@@ -16,7 +16,7 @@
       "image_sku": "16.04-LTS",
   
       "azure_tags": {
-          "dept": "Engineering",
+          "dept": "dev",
           "task": "Image deployment"
       },
   
